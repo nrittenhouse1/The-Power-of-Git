@@ -16,5 +16,4 @@ For this course, I will need the following software:
   Look for your School's WebStore (e.g.: "Northern Alberta Institute of Technology - SICET")
   - Look under Servers for **SQL Server 2016 Developer** or **SQL Server 2017 Developer** ![](Imagine.SQLServer2016.png) ![](Imagine.SQLServer2017Developer.png)
   - You will need to install it following specific steps:
-    - TBA
-    - T
+    - 
